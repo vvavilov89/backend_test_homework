@@ -1,0 +1,6 @@
+{   "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 79,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true
+}
